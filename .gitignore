@@ -1,11 +1,22 @@
+# Olist datasets
 data/raw/*.csv
 
-.ipynb_checkpoints/
-
+# Python
 __pycache__/
-
 *.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
 .env
 
+# VS Code
+.vscode/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+venv/
