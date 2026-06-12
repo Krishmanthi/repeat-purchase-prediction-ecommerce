@@ -1,0 +1,5 @@
+Segment	Customers	Percentage
+New	50642	54.24494955
+At-Risk	37526	40.19580539
+Loyal	2772	2.969215279
+High-Value	2418	2.590029778
